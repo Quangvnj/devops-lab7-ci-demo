@@ -1,5 +1,5 @@
 package com.devops.lab7;
-
+//thêm ghi chú để test poll scm
 /**
  * Simple Calculator class for CI Pipeline Demo
  * Lab 7 — DevOps Course
